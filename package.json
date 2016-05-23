@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "google-auth-library": "^0.9.6",
+    "googleapis": "^7.1.0",
     "moment": "^2.10.6",
     "request": "^2.61.0"
   }
